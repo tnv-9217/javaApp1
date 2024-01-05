@@ -4,5 +4,6 @@
 <p>in this app, we are going to deploy things manually...</p>
 <a href="about.jsp">About page</a>
 <p>this is to test</p>
+<p>this is to test again !</p>
 </body>
 </html>
