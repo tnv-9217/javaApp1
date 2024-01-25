@@ -5,8 +5,7 @@
 <a href="about.jsp">About page</a>
 <a href="services.jsp">Services page</a>
 <a href="test.jsp">Test page</a>
-
-<p>this is to test</p>
-<p>this is to test again !</p>
+<hr>
+<h1>this is new line added</h1>
 </body>
 </html>
